@@ -4,10 +4,12 @@ This is a functional and visual (optional) angular reusable component that provi
 
 On a web component style
 
-'''
+```
 <ng-chronos
-    ng-model="chronos"></ng-chronos>
-'''
+    ng-model=""
+    [template-url=""]>
+</ng-chronos>
+```
 
 ## Getting Started
 
